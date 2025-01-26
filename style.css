@@ -109,7 +109,7 @@ body {
 }
 
 /* Responsive Design */
-@media (max-width: 480px) {
+@media (min-width: 450px) and  (max-width:850px) {
   .calculator {
     max-width: 100%;
     padding: 15px;
